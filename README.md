@@ -1,7 +1,7 @@
 # Excel Find and Replace Helper Add-in
 Microsoft Excel add-in which fixes the initial size and position of the Find and Replace dialog.
 
-![screentshot](https://github.com/T800G/Excel-FindReplace-Helper/xlfrdialog.png)
+![screenshot](https://github.com/T800G/Excel-FindReplace-Helper/blob/master/xlfrdialog.png)
 
 ## Minimum requirements
 - Windows 2000
