@@ -6,7 +6,7 @@ Microsoft Excel add-in which fixes the initial size and position of the Find and
 ## Minimum requirements
 - Windows 2000
 - Office 2003
-  32-bit or 64-bit Office.
+<br>  32-bit or 64-bit Office.
 
 ## Install/Remove
 You can install this add-in as a standard user (non-administrator):
